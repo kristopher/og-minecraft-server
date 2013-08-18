@@ -1,0 +1,6 @@
+*.pid
+*.log
+*.log.*
+crash-reports/*
+worlds/*
+OG
